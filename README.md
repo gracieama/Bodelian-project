@@ -39,10 +39,9 @@ Favorite
 - 3 developers
 
 **Sprint Planning**
-| Requirements document 
-(user stories) | https://docs.google.com/document/d/1jW5NG4cCHuSCLkTDWPJ-pxza3s0UHZ1BaU-84fqnjV0/edit |
-| Wireframe |  |
-| Risk Management Plan | https://docs.google.com/document/d/10GPqM52YdGGKT4MmXoIkTb4QP7KT0zDtv56aCDj4LOc/edit |
-| Prioritization document | https://docs.google.com/document/d/1k6IjCdtIDrs53icm6mjEUoMsPtco76wrp5Cl3Rmg39Y/edit |
-| Release Plan  | https://docs.google.com/spreadsheets/d/1iNzDpWhe9zczcodqdeFra007DrnPKzDcC_CNieE0urk/edit#gid=0 |
-| Sprint Burndown | https://docs.google.com/spreadsheets/d/1iNzDpWhe9zczcodqdeFra007DrnPKzDcC_CNieE0urk/edit#gid=1668118600 |
+Requirements document (user stories) | https://docs.google.com/document/d/1jW5NG4cCHuSCLkTDWPJ-pxza3s0UHZ1BaU-84fqnjV0/edit |
+Wireframe |  |
+Risk Management Plan | https://docs.google.com/document/d/10GPqM52YdGGKT4MmXoIkTb4QP7KT0zDtv56aCDj4LOc/edit |
+Prioritization document | https://docs.google.com/document/d/1k6IjCdtIDrs53icm6mjEUoMsPtco76wrp5Cl3Rmg39Y/edit |
+Release Plan  | https://docs.google.com/spreadsheets/d/1iNzDpWhe9zczcodqdeFra007DrnPKzDcC_CNieE0urk/edit#gid=0 |
+Sprint Burndown | https://docs.google.com/spreadsheets/d/1iNzDpWhe9zczcodqdeFra007DrnPKzDcC_CNieE0urk/edit#gid=1668118600 |
